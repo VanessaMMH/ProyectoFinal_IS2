@@ -1,1 +1,2 @@
-# ProyectoFinal_IS2-
+# ProyectoFinal_IS2
+- Vanessa Macedo Huaman
