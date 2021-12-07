@@ -1,6 +1,7 @@
-# ProyectoFinal_IS2-
+# ProyectoFinal_IS2
 
-Integrantes:
+##Integrantes:
 
--Aquise Santos Angela
+- Aquise Santos Angela
+- Macedo Huaman Vanessa Mayra
 
