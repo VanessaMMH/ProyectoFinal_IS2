@@ -1,7 +1,10 @@
-# ProyectoFinal_IS2
 
+
+# Proyecto Final Ingenieria de Software II
 ## Integrantes:
 
 - Aquise Santos Angela
-- Villanueva Guerrero Luisa
 - Macedo Huaman Vanessa Mayra
+- Tito Jorge
+- Villanueva Guerrero Luisa
+
