@@ -1,9 +1,7 @@
 # ProyectoFinal_IS2
 
-##Integrantes:
+## Integrantes:
 
 - Aquise Santos Angela
+- Villanueva Guerrero Luisa
 - Macedo Huaman Vanessa Mayra
-
--Villanueva Guerrero Luisa
-
