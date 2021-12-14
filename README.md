@@ -70,3 +70,35 @@ after
 <p align="center">
     <img src="/imageRefactorization/event_After.png">
 </p>
+
+### FUNCTIONS SHOULD NOT BE EMPTY
+Hay varias razones para que una función no tenga un cuerpo de función:
+- Es una omisión involuntaria y debe corregirse para evitar un comportamiento inesperado en la producción.
+- Aún no se admite, o nunca lo será. En este caso, debería lanzarse una excepción en los idiomas donde ese mecanismo está disponible.
+- El método es una anulación intencionalmente en blanco. En este caso, un comentario anidado debería explicar el motivo de la anulación en blanco.
+
+Solucion de compilacion
+<p align="center">
+    <img src="/readme_img/compilation_S.png">
+</p>
+Ejemplos:
+
+- Before arrow function
+<p align="center">
+    <img src="/readme_img/itemclick.png">
+</p>
+
+- After arrow function
+<p align="center">
+    <img src="/readme_img/itemclick_S.png">
+</p>
+
+- Before function
+<p align="center">
+    <img src="/readme_img/settitle.png">
+</p>
+
+- After arrow function
+<p align="center">
+    <img src="/readme_img/settitle_S.png">
+</p>
