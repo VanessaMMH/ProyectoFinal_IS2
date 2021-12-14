@@ -1,0 +1,39 @@
+pipeline {
+    agent any
+    
+    parameters {
+        gitParameter branchFilter: 'origin/(.*)', defaultValue: 'main', name: 'BRANCH', type: 'PT_BRANCH'
+      }
+    
+    tools {
+        nodejs "nodejs" 
+    }
+    
+    stages {
+        stage('SCM'){
+            steps {
+                git branch: "${params.BRANCH}", url: 'https://github.com/VanessaMMH/ProyectoFinal_IS2.git'
+            }
+        }
+        stage('Build') {
+            steps {
+                bat 'npm install --openssl-legacy-provider'
+               // bat 'npm run dev'
+            }
+        }
+        stage('SonarQube analysis') {
+            steps {
+                withSonarQubeEnv("sonarqube-server") {
+                    bat '''
+                    sonar-scanner \
+                    -D sonar.projectKey=proyecto_ing_soft_2 \
+                    -D sonar.projectName=proyecto_ing_soft_2 \
+                    -D sonar.sources=./src \
+                    '''
+                }
+              
+            }
+        }
+        
+    }
+}
