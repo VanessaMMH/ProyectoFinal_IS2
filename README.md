@@ -59,3 +59,14 @@ La complejidad cognitiva es una medida de qué tan difícil es comprender el flu
 <p align="center">
     <img src="/readme_img/factorin1.png">
 </p>
+
+
+### COMPOSING METHODS:  5. Introduce Explaining Variable
+before
+<p align="center">
+    <img src="/imageRefactorization/event_before.png">
+</p>
+after
+<p align="center">
+    <img src="/imageRefactorization/event_After.png">
+</p>
