@@ -4,6 +4,9 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const resolve = dir => path.join(__dirname, '..', dir);
 
 module.exports = {
+  output: {
+    hashFunction: 'xxhash64'
+  },
   entry: {
     xspreadsheet: './src/index.js',
   },
