@@ -27,7 +27,9 @@ class DropdownMore extends Dropdown {
     this.setContentChildren(...eles);
   }
 
-  setTitle() {}
+  setTitle() {
+    // This is intentional
+  }
 }
 
 const menuItems = [
@@ -53,7 +55,9 @@ class ContextMenu {
       .css('width', '160px')
       .children(...buildMenu.call(this))
       .hide();
-    this.itemClick = () => {};
+    this.itemClick = () => {
+      // This is intentional
+    };
   }
 
   hide() {
