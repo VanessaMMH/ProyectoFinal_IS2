@@ -9,6 +9,8 @@
 - Villanueva Guerrero Luisa
 - Huertas Canaza Jim Leonardo
 
+
+=======
 ## [Pipeline de CI/CD](jenkinsfile)
 
 #### Requisitos
@@ -33,3 +35,14 @@
 <img src="report-screenshots/sonnar-scanner-report.png" width="50%">
 
 ## Construccion Automatica
+
+
+### COMPOSING METHODS:  5. Introduce Explaining Variable
+before
+<p align="center">
+    <img src="/imageRefactorization/event_before.png">
+</p>
+after
+<p align="center">
+    <img src="/imageRefactorization/event_After.png">
+</p>

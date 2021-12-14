@@ -40,6 +40,7 @@ export function mouseMoveUp(target, movefunc, upfunc) {
   bind(target, 'mouseup', target.xEvtUp);
 }
 
+
 function calTouchDirection(spanx, spany, evt, cb) {
   let direction = '';
   // console.log('spanx:', spanx, ', spany:', spany);
