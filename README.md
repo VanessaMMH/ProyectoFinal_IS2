@@ -93,12 +93,12 @@ Ejemplos:
     <img src="/readme_img/itemclick_S.png">
 </p>
 
-- Before function
+- Before method
 <p align="center">
     <img src="/readme_img/settitle.png">
 </p>
 
-- After arrow function
+- After method
 <p align="center">
     <img src="/readme_img/settitle_S.png">
 </p>
