@@ -40,10 +40,16 @@ export function mouseMoveUp(target, movefunc, upfunc) {
   bind(target, 'mouseup', target.xEvtUp);
 }
 
+
 function calTouchDirection(spanx, spany, evt, cb) {
   let direction = '';
   // console.log('spanx:', spanx, ', spany:', spany);
-  if (Math.abs(spanx) > Math.abs(spany)) {
+  //refactoring
+  //COMPOSING methods
+  //5. Introduce Explaining Variable
+  const longitudElementoX = Math.abs(spanx);
+  const longitudElementoY = Math.abs(spany);
+  if (longitudElementoX > longitudElementoY) {
     // horizontal
     direction = spanx > 0 ? 'right' : 'left';
     cb(direction, spanx, evt);
