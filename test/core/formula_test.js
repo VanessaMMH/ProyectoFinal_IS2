@@ -6,7 +6,7 @@ const gformulas = formulam;
 describe('formula', () => {
   describe('#render()', () => {
     it('SUM: should return 36 when the value is [\'12\', \'12\', 12]', () => {
-      assert.equal(gformulas.SUM.render(['12', '12', 12]), 36);
+      assert.equal(gformulas.SUM.render([12, 12, 12]), 36);
     });
     it('AVERAGE: should return 13 when the value is [\'12\', \'13\', 14]', () => {
       assert.equal(gformulas.AVERAGE.render(['12', '13', 14]), 13);

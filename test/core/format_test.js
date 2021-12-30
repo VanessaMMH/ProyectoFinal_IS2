@@ -17,7 +17,8 @@ describe('formatm', () => {
     it('number: should return 11,000.20 when the value is 11000.20', () => {
       assert.equal(gformats.number.render('11000.20'), '11,000.20');
     });
-    it('number: should return 110,00.20 (NOT MODIFIED when encounter ileagal input) when the value is 110,00.20', () => {
+    it('number: should return 110,00.20 (NOT MODIFIED when encounter ileagal input) when the value is 110,00.20',
+     () => {
       assert.equal(gformats.number.render('110,00.20'), '110,00.20');
     });
     it('percent: should return 50.456% when the value is 50.456', () => {
