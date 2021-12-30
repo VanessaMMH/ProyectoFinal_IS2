@@ -1,0 +1,269 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: :,Thread Group 1-1,text,false,,797,0,1,1,null,0,0,0
+1640833335484,286,-82,200,OK,Thread Group 1-1,text,true,,3371,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,286,0,208
+1640833335772,417,-83,403,rate limit exceeded,Thread Group 1-1,text,false,,1291,394,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,417,0,290
+1640833335451,703,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,4662,934,1,1,null,703,35,498
+1640833336191,0,Borrado Columna load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640833336192,36,-84,200,OK,Thread Group 1-1,text,true,,3365,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,36,0,0
+1640833336229,120,-85,403,rate limit exceeded,Thread Group 1-1,text,false,,1291,394,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,120,0,0
+1640833336191,156,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,4656,934,1,1,null,156,3,0
+1640833336351,49,-86,200,OK,Thread Group 1-1,text,true,,3369,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,49,0,0
+1640833336401,128,-87,403,rate limit exceeded,Thread Group 1-1,text,false,,1291,394,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,128,0,0
+1640833336350,177,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,4660,934,1,1,null,177,2,0
+1640833336530,0,Borrado Fila load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640833336531,39,-88,200,OK,Thread Group 1-1,text,true,,3367,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,39,0,0
+1640833336571,121,-89,403,rate limit exceeded,Thread Group 1-1,text,false,,1291,394,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,120,0,0
+1640833336531,160,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,4658,934,1,1,null,159,1,0
+1640833336695,804,-90,200,OK,Thread Group 1-1,text,true,,31724,482,1,1,https://github.com/myliang/x-spreadsheet/stargazers,687,0,273
+1640833337506,133,-117,200,OK,Thread Group 1-1,bin,true,,2447,436,1,1,https://avatars.githubusercontent.com/u/17782288?s=88&v=4,133,0,77
+1640833337640,35,-113,200,OK,Thread Group 1-1,bin,true,,3348,479,1,1,https://avatars.githubusercontent.com/u/12902548?s=88&u=14515b283b8d9b3fc81cfec37ca3c258c0098b56&v=4,35,0,0
+1640833337676,30,-116,200,OK,Thread Group 1-1,bin,true,,2406,435,1,1,https://avatars.githubusercontent.com/u/2505395?s=88&v=4,29,0,0
+1640833337707,29,-118,200,OK,Thread Group 1-1,bin,true,,3691,478,1,1,https://avatars.githubusercontent.com/u/2501581?s=88&u=366c81b5765fea664bc097c38b970bc7779a905f&v=4,29,0,0
+1640833337738,30,-114,200,OK,Thread Group 1-1,bin,true,,2462,436,1,1,https://avatars.githubusercontent.com/u/22651877?s=88&v=4,30,0,0
+1640833337770,52,-115,200,OK,Thread Group 1-1,bin,true,,4147,479,1,1,https://avatars.githubusercontent.com/u/34787659?s=88&u=210cd10680bae512ecf036834b85e797d8184ebc&v=4,51,0,0
+1640833337824,171,-111,200,OK,Thread Group 1-1,text,true,,3486,870,1,1,https://github.com/myliang/x-spreadsheet/sponsor_button,171,0,0
+1640833337997,165,-112,200,OK,Thread Group 1-1,text,true,,2253,887,1,1,https://github.com/myliang/x-spreadsheet/security/overall-count,165,0,0
+1640833338163,31,-119,200,OK,Thread Group 1-1,bin,true,,2959,478,1,1,https://avatars.githubusercontent.com/u/1379272?s=88&u=0c40066e3206b9fb4d2bbba6a2b6404448c5bf72&v=4,30,0,0
+1640833338196,27,-123,200,OK,Thread Group 1-1,bin,true,,4532,479,1,1,https://avatars.githubusercontent.com/u/53166933?s=88&u=2b03b8360eded5433df91b3dba38d5d92387e522&v=4,27,0,0
+1640833338225,26,-122,200,OK,Thread Group 1-1,bin,true,,2432,436,1,1,https://avatars.githubusercontent.com/u/80031313?s=88&v=4,26,0,0
+1640833338253,27,-120,200,OK,Thread Group 1-1,bin,true,,3324,479,1,1,https://avatars.githubusercontent.com/u/22044153?s=88&u=5665381aea50a13e8183c786af06d34eaebe7606&v=4,26,0,0
+1640833338281,53,-121,200,OK,Thread Group 1-1,bin,true,,2422,436,1,1,https://avatars.githubusercontent.com/u/18674723?s=88&v=4,53,0,0
+1640833338336,30,-124,200,OK,Thread Group 1-1,bin,true,,3255,478,1,1,https://avatars.githubusercontent.com/u/5501615?s=88&u=47a7c69dc4fd5c88d0276025fc2735e75a085699&v=4,29,0,0
+1640833338367,29,-125,200,OK,Thread Group 1-1,bin,true,,2379,436,1,1,https://avatars.githubusercontent.com/u/96163872?s=88&v=4,28,0,0
+1640833338398,55,-126,200,OK,Thread Group 1-1,bin,true,,3956,477,1,1,https://avatars.githubusercontent.com/u/875473?s=88&u=daee9401b31d9f120ba330d384261a74bad42ee1&v=4,55,0,0
+1640833338454,37,-129,200,OK,Thread Group 1-1,bin,true,,3341,478,1,1,https://avatars.githubusercontent.com/u/9879800?s=88&u=f807230c4606e9b1955c83eacbe8c6c99bf75e77&v=4,36,0,0
+1640833338492,38,-130,200,OK,Thread Group 1-1,bin,true,,3531,479,1,1,https://avatars.githubusercontent.com/u/56335408?s=88&u=0b3875a708b88f773e8ba1d8587a3ef7db29d599&v=4,37,0,0
+1640833338531,41,-132,200,OK,Thread Group 1-1,bin,true,,2441,435,1,1,https://avatars.githubusercontent.com/u/6148880?s=88&v=4,41,0,0
+1640833338573,33,-133,200,OK,Thread Group 1-1,bin,true,,2423,436,1,1,https://avatars.githubusercontent.com/u/64425188?s=88&v=4,32,0,0
+1640833338607,35,-134,200,OK,Thread Group 1-1,bin,true,,2437,435,1,1,https://avatars.githubusercontent.com/u/7486566?s=88&v=4,35,0,0
+1640833338643,49,-135,200,OK,Thread Group 1-1,bin,true,,2721,479,1,1,https://avatars.githubusercontent.com/u/38177810?s=88&u=b2b30667f07cfb0ba9eddd9de5dddb996c941dc9&v=4,49,0,0
+1640833338694,28,-128,200,OK,Thread Group 1-1,bin,true,,4399,436,1,1,https://avatars.githubusercontent.com/u/95600768?s=88&v=4,27,0,0
+1640833338724,32,-136,200,OK,Thread Group 1-1,bin,true,,4859,479,1,1,https://avatars.githubusercontent.com/u/34708197?s=88&u=f29345afa48032e6a4357a124e23d1930b2168cf&v=4,32,0,0
+1640833338758,54,-127,200,OK,Thread Group 1-1,bin,true,,4927,434,1,1,https://avatars.githubusercontent.com/u/430696?s=88&v=4,54,0,0
+1640833338814,28,-137,200,OK,Thread Group 1-1,bin,true,,2441,436,1,1,https://avatars.githubusercontent.com/u/55926730?s=88&v=4,28,0,0
+1640833338844,30,-131,200,OK,Thread Group 1-1,bin,true,,7859,435,1,1,https://avatars.githubusercontent.com/u/3964826?s=88&v=4,30,0,0
+1640833338876,55,-139,200,OK,Thread Group 1-1,bin,true,,8607,479,1,1,https://avatars.githubusercontent.com/u/10810432?s=88&u=a0c29cf0b268f9cca3ce7314f54bec9ac4f12fff&v=4,55,0,0
+1640833338933,28,-142,200,OK,Thread Group 1-1,bin,true,,3516,479,1,1,https://avatars.githubusercontent.com/u/41382129?s=88&u=ca9a7a6341df162d9a2e60162477b6e083fc9ec4&v=4,27,0,0
+1640833338962,28,-140,200,OK,Thread Group 1-1,bin,true,,2406,435,1,1,https://avatars.githubusercontent.com/u/8979679?s=88&v=4,28,0,0
+1640833338992,28,-141,200,OK,Thread Group 1-1,bin,true,,2412,436,1,1,https://avatars.githubusercontent.com/u/29771049?s=88&v=4,28,0,0
+1640833339022,32,-138,200,OK,Thread Group 1-1,bin,true,,4449,434,1,1,https://avatars.githubusercontent.com/u/880906?s=88&v=4,32,0,0
+1640833339056,108,-144,200,OK,Thread Group 1-1,text,true,,1632,436,1,1,https://github.githubassets.com/favicons/favicon-dark.svg,108,0,82
+1640833339164,304,-145,200,OK,Thread Group 1-1,text,true,,1046,28952,1,1,https://api.github.com/_private/browser/stats,304,0,0
+1640833339471,644,-146,204,No Content,Thread Group 1-1,,true,,615,1335,1,1,https://collector.githubapp.com/github/collect,0,0,524
+1640833340118,186,-147,200,OK,Thread Group 1-1,text,true,,3139,935,1,1,https://github.com/users/xueenda/hovercard?subject=repository%3A147656990&current_path=%2Fmyliang%2Fx-spreadsheet%2Fstargazers,185,0,0
+1640833340306,31,-148,200,OK,Thread Group 1-1,bin,true,,3700,436,1,1,https://avatars.githubusercontent.com/u/1379272?s=120&v=4,31,0,0
+1640833336693,3576,,200,"Number of samples in transaction : 38, number of failing samples : 0",Thread Group 1-1,,true,,154124,48000,1,1,null,2803,69,956
+1640833340341,412,-149,200,OK,Thread Group 1-1,text,true,,620,1212,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/c8ab68c4-d70d-4256-b617-132cf5e30df2,412,0,232
+1640833340338,412,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,620,1212,1,1,null,412,3,232
+1640833340753,0,Modificacion Texto load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640833340754,35,-150,200,OK,Thread Group 1-1,text,true,,3361,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,35,0,0
+1640833340790,120,-151,403,rate limit exceeded,Thread Group 1-1,text,false,,1291,451,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,120,0,0
+1640833340754,155,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,4652,991,1,1,null,155,1,0
+1640833340912,382,-153,200,OK,Thread Group 1-1,text,true,,213,337,1,1,https://contile.services.mozilla.com/v1/tiles,382,0,219
+1640833341295,5877,-152,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,597
+1640833340910,6259,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,2295,337,1,1,null,382,4,816
+1640833347174,5748,-154,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,560
+1640833347173,5748,,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2082,0,1,1,null,0,6,560
+1640833352927,5809,-155,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,588
+1640833352926,5809,,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2082,0,1,1,null,0,2,588
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: :,Thread Group 1-1,text,false,,797,0,1,1,null,0,0,0
+1640833358740,68,-82,200,OK,Thread Group 1-1,text,true,,3371,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,68,0,0
+1640833358810,123,-83,403,rate limit exceeded,Thread Group 1-1,text,false,,1291,451,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,123,0,0
+1640833358739,191,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,4662,991,1,1,null,191,4,0
+1640833358934,0,Borrado Columna load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640833358936,35,-84,200,OK,Thread Group 1-1,text,true,,3369,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,35,0,0
+1640833358971,122,-85,403,rate limit exceeded,Thread Group 1-1,text,false,,1291,451,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,122,0,0
+1640833358935,157,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,4660,991,1,1,null,157,1,0
+1640833359094,48,-86,200,OK,Thread Group 1-1,text,true,,3369,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,48,0,0
+1640833359143,132,-87,403,rate limit exceeded,Thread Group 1-1,text,false,,1291,451,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,132,0,0
+1640833359093,180,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,4660,991,1,1,null,180,2,0
+1640833359275,0,Borrado Fila load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640833359276,34,-88,200,OK,Thread Group 1-1,text,true,,3369,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,34,0,0
+1640833359310,120,-89,403,rate limit exceeded,Thread Group 1-1,text,false,,1291,451,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,120,0,0
+1640833359275,154,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,4660,991,1,1,null,154,2,0
+1640833359432,437,-90,200,OK,Thread Group 1-1,text,true,,31071,902,1,1,https://github.com/myliang/x-spreadsheet/stargazers,432,0,0
+1640833359870,43,-117,200,OK,Thread Group 1-1,bin,true,,2447,436,1,1,https://avatars.githubusercontent.com/u/17782288?s=88&v=4,43,0,0
+1640833359915,27,-113,200,OK,Thread Group 1-1,bin,true,,3348,479,1,1,https://avatars.githubusercontent.com/u/12902548?s=88&u=14515b283b8d9b3fc81cfec37ca3c258c0098b56&v=4,27,0,0
+1640833359943,28,-116,200,OK,Thread Group 1-1,bin,true,,2406,435,1,1,https://avatars.githubusercontent.com/u/2505395?s=88&v=4,28,0,0
+1640833359972,54,-118,200,OK,Thread Group 1-1,bin,true,,3691,478,1,1,https://avatars.githubusercontent.com/u/2501581?s=88&u=366c81b5765fea664bc097c38b970bc7779a905f&v=4,54,0,0
+1640833360027,31,-114,200,OK,Thread Group 1-1,bin,true,,2462,436,1,1,https://avatars.githubusercontent.com/u/22651877?s=88&v=4,31,0,0
+1640833360059,41,-115,200,OK,Thread Group 1-1,bin,true,,4147,479,1,1,https://avatars.githubusercontent.com/u/34787659?s=88&u=210cd10680bae512ecf036834b85e797d8184ebc&v=4,41,0,0
+1640833360101,230,-111,200,OK,Thread Group 1-1,text,true,,3486,870,1,1,https://github.com/myliang/x-spreadsheet/sponsor_button,229,0,0
+1640833360332,182,-112,200,OK,Thread Group 1-1,text,true,,2253,887,1,1,https://github.com/myliang/x-spreadsheet/security/overall-count,182,0,0
+1640833360516,30,-119,200,OK,Thread Group 1-1,bin,true,,2959,478,1,1,https://avatars.githubusercontent.com/u/1379272?s=88&u=0c40066e3206b9fb4d2bbba6a2b6404448c5bf72&v=4,30,0,0
+1640833360547,33,-123,200,OK,Thread Group 1-1,bin,true,,4532,479,1,1,https://avatars.githubusercontent.com/u/53166933?s=88&u=2b03b8360eded5433df91b3dba38d5d92387e522&v=4,33,0,0
+1640833360582,32,-122,200,OK,Thread Group 1-1,bin,true,,2432,436,1,1,https://avatars.githubusercontent.com/u/80031313?s=88&v=4,32,0,0
+1640833360615,32,-120,200,OK,Thread Group 1-1,bin,true,,3324,479,1,1,https://avatars.githubusercontent.com/u/22044153?s=88&u=5665381aea50a13e8183c786af06d34eaebe7606&v=4,32,0,0
+1640833360648,44,-121,200,OK,Thread Group 1-1,bin,true,,2422,436,1,1,https://avatars.githubusercontent.com/u/18674723?s=88&v=4,44,0,0
+1640833360694,33,-124,200,OK,Thread Group 1-1,bin,true,,3255,478,1,1,https://avatars.githubusercontent.com/u/5501615?s=88&u=47a7c69dc4fd5c88d0276025fc2735e75a085699&v=4,33,0,0
+1640833360728,31,-125,200,OK,Thread Group 1-1,bin,true,,2379,436,1,1,https://avatars.githubusercontent.com/u/96163872?s=88&v=4,31,0,0
+1640833360760,28,-126,200,OK,Thread Group 1-1,bin,true,,3956,477,1,1,https://avatars.githubusercontent.com/u/875473?s=88&u=daee9401b31d9f120ba330d384261a74bad42ee1&v=4,27,0,0
+1640833360789,31,-129,200,OK,Thread Group 1-1,bin,true,,3341,478,1,1,https://avatars.githubusercontent.com/u/9879800?s=88&u=f807230c4606e9b1955c83eacbe8c6c99bf75e77&v=4,31,0,0
+1640833360823,27,-130,200,OK,Thread Group 1-1,bin,true,,3531,479,1,1,https://avatars.githubusercontent.com/u/56335408?s=88&u=0b3875a708b88f773e8ba1d8587a3ef7db29d599&v=4,27,0,0
+1640833360850,32,-132,200,OK,Thread Group 1-1,bin,true,,2441,435,1,1,https://avatars.githubusercontent.com/u/6148880?s=88&v=4,32,0,0
+1640833360883,31,-133,200,OK,Thread Group 1-1,bin,true,,2423,436,1,1,https://avatars.githubusercontent.com/u/64425188?s=88&v=4,31,0,0
+1640833360915,29,-134,200,OK,Thread Group 1-1,bin,true,,2437,435,1,1,https://avatars.githubusercontent.com/u/7486566?s=88&v=4,29,0,0
+1640833360945,43,-135,200,OK,Thread Group 1-1,bin,true,,2721,479,1,1,https://avatars.githubusercontent.com/u/38177810?s=88&u=b2b30667f07cfb0ba9eddd9de5dddb996c941dc9&v=4,43,0,0
+1640833360989,29,-128,200,OK,Thread Group 1-1,bin,true,,4399,436,1,1,https://avatars.githubusercontent.com/u/95600768?s=88&v=4,29,0,0
+1640833361019,32,-136,200,OK,Thread Group 1-1,bin,true,,4859,479,1,1,https://avatars.githubusercontent.com/u/34708197?s=88&u=f29345afa48032e6a4357a124e23d1930b2168cf&v=4,32,0,0
+1640833361051,25,-127,200,OK,Thread Group 1-1,bin,true,,4927,434,1,1,https://avatars.githubusercontent.com/u/430696?s=88&v=4,25,0,0
+1640833361076,28,-137,200,OK,Thread Group 1-1,bin,true,,2441,436,1,1,https://avatars.githubusercontent.com/u/55926730?s=88&v=4,28,0,0
+1640833361105,26,-131,200,OK,Thread Group 1-1,bin,true,,7859,435,1,1,https://avatars.githubusercontent.com/u/3964826?s=88&v=4,25,0,0
+1640833361131,32,-139,200,OK,Thread Group 1-1,bin,true,,8607,479,1,1,https://avatars.githubusercontent.com/u/10810432?s=88&u=a0c29cf0b268f9cca3ce7314f54bec9ac4f12fff&v=4,32,0,0
+1640833361163,37,-142,200,OK,Thread Group 1-1,bin,true,,3516,479,1,1,https://avatars.githubusercontent.com/u/41382129?s=88&u=ca9a7a6341df162d9a2e60162477b6e083fc9ec4&v=4,37,0,0
+1640833361202,31,-140,200,OK,Thread Group 1-1,bin,true,,2406,435,1,1,https://avatars.githubusercontent.com/u/8979679?s=88&v=4,31,0,0
+1640833361234,26,-141,200,OK,Thread Group 1-1,bin,true,,2412,436,1,1,https://avatars.githubusercontent.com/u/29771049?s=88&v=4,26,0,0
+1640833361262,26,-138,200,OK,Thread Group 1-1,bin,true,,4449,434,1,1,https://avatars.githubusercontent.com/u/880906?s=88&v=4,26,0,0
+1640833361290,31,-144,200,OK,Thread Group 1-1,text,true,,1632,436,1,1,https://github.githubassets.com/favicons/favicon-dark.svg,31,0,0
+1640833361323,223,-145,200,OK,Thread Group 1-1,text,true,,1046,28952,1,1,https://api.github.com/_private/browser/stats,223,0,0
+1640833361547,125,-146,204,No Content,Thread Group 1-1,,true,,615,1335,1,1,https://collector.githubapp.com/github/collect,0,0,0
+1640833361673,174,-147,200,OK,Thread Group 1-1,text,true,,3139,935,1,1,https://github.com/users/xueenda/hovercard?subject=repository%3A147656990&current_path=%2Fmyliang%2Fx-spreadsheet%2Fstargazers,174,0,0
+1640833361848,29,-148,200,OK,Thread Group 1-1,bin,true,,3700,436,1,1,https://avatars.githubusercontent.com/u/1379272?s=120&v=4,29,0,0
+1640833359431,2403,,200,"Number of samples in transaction : 38, number of failing samples : 0",Thread Group 1-1,,true,,153471,48420,1,1,null,2270,43,0
+1640833361878,232,-149,200,OK,Thread Group 1-1,text,true,,620,1212,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/c8ab68c4-d70d-4256-b617-132cf5e30df2,232,0,0
+1640833361877,232,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,620,1212,1,1,null,232,1,0
+1640833362111,0,Modificacion Texto load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640833362112,47,-150,200,OK,Thread Group 1-1,text,true,,3369,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,47,0,0
+1640833362160,120,-151,403,rate limit exceeded,Thread Group 1-1,text,false,,1291,451,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,120,0,0
+1640833362111,167,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,4660,991,1,1,null,167,3,0
+1640833362282,160,-153,200,OK,Thread Group 1-1,text,true,,213,337,1,1,https://contile.services.mozilla.com/v1/tiles,160,0,0
+1640833362443,5806,-152,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,582
+1640833362281,5966,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,2295,337,1,1,null,160,3,582
+1640833368250,5844,-154,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,589
+1640833368249,5844,,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2082,0,1,1,null,0,1,589
+1640833374095,5940,-155,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,741
+1640833374094,5940,,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2082,0,1,1,null,0,5,741
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: :,Thread Group 1-1,text,false,,797,0,1,1,null,0,0,0
+1640834438279,294,-82,200,OK,Thread Group 1-1,text,true,,3371,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,293,0,225
+1640834438573,506,-83,200,OK,Thread Group 1-1,text,true,,3098,394,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,455,0,275
+1640834438251,800,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,6469,934,1,1,null,748,30,500
+1640834439083,0,Borrado Columna load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640834439084,38,-84,200,OK,Thread Group 1-1,text,true,,3369,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,38,0,0
+1640834439123,126,-85,200,OK,Thread Group 1-1,text,true,,3092,394,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,123,0,0
+1640834439084,164,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,6461,934,1,1,null,161,1,0
+1640834439250,37,-86,200,OK,Thread Group 1-1,text,true,,3371,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,37,0,0
+1640834439288,129,-87,200,OK,Thread Group 1-1,text,true,,3070,394,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,128,0,0
+1640834439250,166,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,6441,934,1,1,null,165,2,0
+1640834439418,0,Borrado Fila load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640834439420,45,-88,200,OK,Thread Group 1-1,text,true,,3367,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,45,0,0
+1640834439467,123,-89,200,OK,Thread Group 1-1,text,true,,3086,394,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,121,0,0
+1640834439419,168,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,6453,934,1,1,null,166,3,0
+1640834439593,772,-90,200,OK,Thread Group 1-1,text,true,,31747,482,1,1,https://github.com/myliang/x-spreadsheet/stargazers,642,0,269
+1640834440371,107,-117,200,OK,Thread Group 1-1,bin,true,,2448,436,1,1,https://avatars.githubusercontent.com/u/17782288?s=88&v=4,107,0,76
+1640834440479,25,-113,200,OK,Thread Group 1-1,bin,true,,3345,479,1,1,https://avatars.githubusercontent.com/u/12902548?s=88&u=14515b283b8d9b3fc81cfec37ca3c258c0098b56&v=4,25,0,0
+1640834440505,45,-116,200,OK,Thread Group 1-1,bin,true,,2407,435,1,1,https://avatars.githubusercontent.com/u/2505395?s=88&v=4,45,0,0
+1640834440551,27,-118,200,OK,Thread Group 1-1,bin,true,,3691,478,1,1,https://avatars.githubusercontent.com/u/2501581?s=88&u=366c81b5765fea664bc097c38b970bc7779a905f&v=4,27,0,0
+1640834440579,27,-114,200,OK,Thread Group 1-1,bin,true,,2463,436,1,1,https://avatars.githubusercontent.com/u/22651877?s=88&v=4,26,0,0
+1640834440607,28,-115,200,OK,Thread Group 1-1,bin,true,,4147,479,1,1,https://avatars.githubusercontent.com/u/34787659?s=88&u=210cd10680bae512ecf036834b85e797d8184ebc&v=4,27,0,0
+1640834440637,173,-111,200,OK,Thread Group 1-1,text,true,,3486,885,1,1,https://github.com/myliang/x-spreadsheet/sponsor_button,172,0,0
+1640834440811,168,-112,200,OK,Thread Group 1-1,text,true,,2253,902,1,1,https://github.com/myliang/x-spreadsheet/security/overall-count,168,0,0
+1640834440980,28,-119,200,OK,Thread Group 1-1,bin,true,,2959,478,1,1,https://avatars.githubusercontent.com/u/1379272?s=88&u=0c40066e3206b9fb4d2bbba6a2b6404448c5bf72&v=4,28,0,0
+1640834441010,29,-123,200,OK,Thread Group 1-1,bin,true,,4533,479,1,1,https://avatars.githubusercontent.com/u/53166933?s=88&u=2b03b8360eded5433df91b3dba38d5d92387e522&v=4,28,0,0
+1640834441041,31,-122,200,OK,Thread Group 1-1,bin,true,,2433,436,1,1,https://avatars.githubusercontent.com/u/80031313?s=88&v=4,31,0,0
+1640834441074,29,-120,200,OK,Thread Group 1-1,bin,true,,3324,479,1,1,https://avatars.githubusercontent.com/u/22044153?s=88&u=5665381aea50a13e8183c786af06d34eaebe7606&v=4,28,0,0
+1640834441105,28,-121,200,OK,Thread Group 1-1,bin,true,,2423,436,1,1,https://avatars.githubusercontent.com/u/18674723?s=88&v=4,28,0,0
+1640834441134,30,-124,200,OK,Thread Group 1-1,bin,true,,3256,478,1,1,https://avatars.githubusercontent.com/u/5501615?s=88&u=47a7c69dc4fd5c88d0276025fc2735e75a085699&v=4,29,0,0
+1640834441166,26,-125,200,OK,Thread Group 1-1,bin,true,,2380,436,1,1,https://avatars.githubusercontent.com/u/96163872?s=88&v=4,26,0,0
+1640834441194,27,-126,200,OK,Thread Group 1-1,bin,true,,3957,477,1,1,https://avatars.githubusercontent.com/u/875473?s=88&u=daee9401b31d9f120ba330d384261a74bad42ee1&v=4,26,0,0
+1640834441222,28,-129,200,OK,Thread Group 1-1,bin,true,,3342,478,1,1,https://avatars.githubusercontent.com/u/9879800?s=88&u=f807230c4606e9b1955c83eacbe8c6c99bf75e77&v=4,27,0,0
+1640834441250,32,-130,200,OK,Thread Group 1-1,bin,true,,3532,479,1,1,https://avatars.githubusercontent.com/u/56335408?s=88&u=0b3875a708b88f773e8ba1d8587a3ef7db29d599&v=4,31,0,0
+1640834441283,28,-132,200,OK,Thread Group 1-1,bin,true,,2441,435,1,1,https://avatars.githubusercontent.com/u/6148880?s=88&v=4,28,0,0
+1640834441312,27,-133,200,OK,Thread Group 1-1,bin,true,,2424,436,1,1,https://avatars.githubusercontent.com/u/64425188?s=88&v=4,27,0,0
+1640834441340,29,-134,200,OK,Thread Group 1-1,bin,true,,2438,435,1,1,https://avatars.githubusercontent.com/u/7486566?s=88&v=4,29,0,0
+1640834441372,27,-135,200,OK,Thread Group 1-1,bin,true,,2722,479,1,1,https://avatars.githubusercontent.com/u/38177810?s=88&u=b2b30667f07cfb0ba9eddd9de5dddb996c941dc9&v=4,27,0,0
+1640834441400,28,-128,200,OK,Thread Group 1-1,bin,true,,4399,436,1,1,https://avatars.githubusercontent.com/u/95600768?s=88&v=4,27,0,0
+1640834441429,30,-136,200,OK,Thread Group 1-1,bin,true,,4859,479,1,1,https://avatars.githubusercontent.com/u/34708197?s=88&u=f29345afa48032e6a4357a124e23d1930b2168cf&v=4,30,0,0
+1640834441460,31,-127,200,OK,Thread Group 1-1,bin,true,,4927,434,1,1,https://avatars.githubusercontent.com/u/430696?s=88&v=4,31,0,0
+1640834441493,31,-137,200,OK,Thread Group 1-1,bin,true,,2442,436,1,1,https://avatars.githubusercontent.com/u/55926730?s=88&v=4,31,0,0
+1640834441526,28,-131,200,OK,Thread Group 1-1,bin,true,,7859,435,1,1,https://avatars.githubusercontent.com/u/3964826?s=88&v=4,28,0,0
+1640834441555,29,-139,200,OK,Thread Group 1-1,bin,true,,8608,479,1,1,https://avatars.githubusercontent.com/u/10810432?s=88&u=a0c29cf0b268f9cca3ce7314f54bec9ac4f12fff&v=4,28,0,0
+1640834441585,27,-142,200,OK,Thread Group 1-1,bin,true,,3516,479,1,1,https://avatars.githubusercontent.com/u/41382129?s=88&u=ca9a7a6341df162d9a2e60162477b6e083fc9ec4&v=4,27,0,0
+1640834441614,30,-140,200,OK,Thread Group 1-1,bin,true,,2407,435,1,1,https://avatars.githubusercontent.com/u/8979679?s=88&v=4,30,0,0
+1640834441645,30,-141,200,OK,Thread Group 1-1,bin,true,,2413,436,1,1,https://avatars.githubusercontent.com/u/29771049?s=88&v=4,30,0,0
+1640834441676,26,-138,200,OK,Thread Group 1-1,bin,true,,4449,434,1,1,https://avatars.githubusercontent.com/u/880906?s=88&v=4,26,0,0
+1640834441703,106,-144,200,OK,Thread Group 1-1,text,true,,1632,436,1,1,https://github.githubassets.com/favicons/favicon-dark.svg,106,0,77
+1640834441810,307,-145,200,OK,Thread Group 1-1,text,true,,1046,28951,1,1,https://api.github.com/_private/browser/stats,307,0,0
+1640834442120,1540,-146,204,No Content,Thread Group 1-1,,true,,615,1335,1,1,https://collector.githubapp.com/github/collect,0,0,1420
+1640834443661,181,-147,200,OK,Thread Group 1-1,text,true,,3139,950,1,1,https://github.com/users/xueenda/hovercard?subject=repository%3A147656990&current_path=%2Fmyliang%2Fx-spreadsheet%2Fstargazers,181,0,0
+1640834443844,32,-148,200,OK,Thread Group 1-1,bin,true,,3700,436,1,1,https://avatars.githubusercontent.com/u/1379272?s=120&v=4,31,0,0
+1640834439591,4227,,200,"Number of samples in transaction : 38, number of failing samples : 0",Thread Group 1-1,,true,,154162,48044,1,1,null,2545,59,1842
+1640834443880,420,-149,200,OK,Thread Group 1-1,text,true,,620,1212,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/c8ab68c4-d70d-4256-b617-132cf5e30df2,420,0,220
+1640834443878,420,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,620,1212,1,1,null,420,2,220
+1640834444301,0,Modificacion Texto load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640834444302,36,-150,200,OK,Thread Group 1-1,text,true,,3373,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,36,0,0
+1640834444339,125,-151,200,OK,Thread Group 1-1,text,true,,3081,450,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,124,0,0
+1640834444301,161,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,6454,990,1,1,null,160,3,0
+1640834444467,374,-153,200,OK,Thread Group 1-1,text,true,,213,337,1,1,https://contile.services.mozilla.com/v1/tiles,374,0,211
+1640834444843,6821,-152,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,1633
+1640834444465,7195,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,2295,337,1,1,null,374,5,1844
+1640834451665,5749,-154,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,562
+1640834451664,5749,,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2082,0,1,1,null,0,2,562
+1640834457416,5747,-155,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,562
+1640834457415,5747,,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2082,0,1,1,null,0,6,562
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: :,Thread Group 1-1,text,false,,797,0,1,1,null,0,0,0
+1640834463170,42,-82,200,OK,Thread Group 1-1,text,true,,3369,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,42,0,0
+1640834463212,195,-83,200,OK,Thread Group 1-1,text,true,,3064,450,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,194,0,0
+1640834463170,237,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,6433,990,1,1,null,236,0,0
+1640834463408,0,Borrado Columna load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640834463409,37,-84,200,OK,Thread Group 1-1,text,true,,3367,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,37,0,0
+1640834463446,128,-85,200,OK,Thread Group 1-1,text,true,,3081,450,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,126,0,0
+1640834463408,165,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,6448,990,1,1,null,163,1,0
+1640834463575,36,-86,200,OK,Thread Group 1-1,text,true,,3367,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,36,0,0
+1640834463612,123,-87,200,OK,Thread Group 1-1,text,true,,3070,450,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,123,0,0
+1640834463574,159,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,6437,990,1,1,null,159,2,0
+1640834463735,0,Borrado Fila load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640834463736,34,-88,200,OK,Thread Group 1-1,text,true,,3371,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,34,0,0
+1640834463771,122,-89,200,OK,Thread Group 1-1,text,true,,3075,450,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,122,0,0
+1640834463736,156,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,6446,990,1,1,null,156,2,0
+1640834463895,383,-90,200,OK,Thread Group 1-1,text,true,,31071,917,1,1,https://github.com/myliang/x-spreadsheet/stargazers,378,0,0
+1640834464280,28,-117,200,OK,Thread Group 1-1,bin,true,,2448,436,1,1,https://avatars.githubusercontent.com/u/17782288?s=88&v=4,28,0,0
+1640834464309,29,-113,200,OK,Thread Group 1-1,bin,true,,3345,479,1,1,https://avatars.githubusercontent.com/u/12902548?s=88&u=14515b283b8d9b3fc81cfec37ca3c258c0098b56&v=4,29,0,0
+1640834464339,25,-116,200,OK,Thread Group 1-1,bin,true,,2407,435,1,1,https://avatars.githubusercontent.com/u/2505395?s=88&v=4,25,0,0
+1640834464365,28,-118,200,OK,Thread Group 1-1,bin,true,,3691,478,1,1,https://avatars.githubusercontent.com/u/2501581?s=88&u=366c81b5765fea664bc097c38b970bc7779a905f&v=4,27,0,0
+1640834464394,29,-114,200,OK,Thread Group 1-1,bin,true,,2463,436,1,1,https://avatars.githubusercontent.com/u/22651877?s=88&v=4,29,0,0
+1640834464425,26,-115,200,OK,Thread Group 1-1,bin,true,,4147,479,1,1,https://avatars.githubusercontent.com/u/34787659?s=88&u=210cd10680bae512ecf036834b85e797d8184ebc&v=4,26,0,0
+1640834464452,169,-111,200,OK,Thread Group 1-1,text,true,,3486,885,1,1,https://github.com/myliang/x-spreadsheet/sponsor_button,169,0,0
+1640834464622,169,-112,200,OK,Thread Group 1-1,text,true,,2253,902,1,1,https://github.com/myliang/x-spreadsheet/security/overall-count,169,0,0
+1640834464792,27,-119,200,OK,Thread Group 1-1,bin,true,,2959,478,1,1,https://avatars.githubusercontent.com/u/1379272?s=88&u=0c40066e3206b9fb4d2bbba6a2b6404448c5bf72&v=4,27,0,0
+1640834464820,28,-123,200,OK,Thread Group 1-1,bin,true,,4533,479,1,1,https://avatars.githubusercontent.com/u/53166933?s=88&u=2b03b8360eded5433df91b3dba38d5d92387e522&v=4,28,0,0
+1640834464849,34,-122,200,OK,Thread Group 1-1,bin,true,,2433,436,1,1,https://avatars.githubusercontent.com/u/80031313?s=88&v=4,34,0,0
+1640834464884,27,-120,200,OK,Thread Group 1-1,bin,true,,3324,479,1,1,https://avatars.githubusercontent.com/u/22044153?s=88&u=5665381aea50a13e8183c786af06d34eaebe7606&v=4,27,0,0
+1640834464913,28,-121,200,OK,Thread Group 1-1,bin,true,,2423,436,1,1,https://avatars.githubusercontent.com/u/18674723?s=88&v=4,28,0,0
+1640834464943,25,-124,200,OK,Thread Group 1-1,bin,true,,3256,478,1,1,https://avatars.githubusercontent.com/u/5501615?s=88&u=47a7c69dc4fd5c88d0276025fc2735e75a085699&v=4,25,0,0
+1640834464969,27,-125,200,OK,Thread Group 1-1,bin,true,,2380,436,1,1,https://avatars.githubusercontent.com/u/96163872?s=88&v=4,27,0,0
+1640834464997,35,-126,200,OK,Thread Group 1-1,bin,true,,3957,477,1,1,https://avatars.githubusercontent.com/u/875473?s=88&u=daee9401b31d9f120ba330d384261a74bad42ee1&v=4,35,0,0
+1640834465033,25,-129,200,OK,Thread Group 1-1,bin,true,,3342,478,1,1,https://avatars.githubusercontent.com/u/9879800?s=88&u=f807230c4606e9b1955c83eacbe8c6c99bf75e77&v=4,25,0,0
+1640834465060,30,-130,200,OK,Thread Group 1-1,bin,true,,3532,479,1,1,https://avatars.githubusercontent.com/u/56335408?s=88&u=0b3875a708b88f773e8ba1d8587a3ef7db29d599&v=4,29,0,0
+1640834465091,29,-132,200,OK,Thread Group 1-1,bin,true,,2441,435,1,1,https://avatars.githubusercontent.com/u/6148880?s=88&v=4,29,0,0
+1640834465122,28,-133,200,OK,Thread Group 1-1,bin,true,,2424,436,1,1,https://avatars.githubusercontent.com/u/64425188?s=88&v=4,28,0,0
+1640834465152,29,-134,200,OK,Thread Group 1-1,bin,true,,2438,435,1,1,https://avatars.githubusercontent.com/u/7486566?s=88&v=4,29,0,0
+1640834465181,30,-135,200,OK,Thread Group 1-1,bin,true,,2722,479,1,1,https://avatars.githubusercontent.com/u/38177810?s=88&u=b2b30667f07cfb0ba9eddd9de5dddb996c941dc9&v=4,30,0,0
+1640834465212,26,-128,200,OK,Thread Group 1-1,bin,true,,4399,436,1,1,https://avatars.githubusercontent.com/u/95600768?s=88&v=4,26,0,0
+1640834465239,30,-136,200,OK,Thread Group 1-1,bin,true,,4859,479,1,1,https://avatars.githubusercontent.com/u/34708197?s=88&u=f29345afa48032e6a4357a124e23d1930b2168cf&v=4,30,0,0
+1640834465270,26,-127,200,OK,Thread Group 1-1,bin,true,,4927,434,1,1,https://avatars.githubusercontent.com/u/430696?s=88&v=4,26,0,0
+1640834465297,30,-137,200,OK,Thread Group 1-1,bin,true,,2442,436,1,1,https://avatars.githubusercontent.com/u/55926730?s=88&v=4,29,0,0
+1640834465328,28,-131,200,OK,Thread Group 1-1,bin,true,,7859,435,1,1,https://avatars.githubusercontent.com/u/3964826?s=88&v=4,28,0,0
+1640834465357,26,-139,200,OK,Thread Group 1-1,bin,true,,8608,479,1,1,https://avatars.githubusercontent.com/u/10810432?s=88&u=a0c29cf0b268f9cca3ce7314f54bec9ac4f12fff&v=4,26,0,0
+1640834465384,28,-142,200,OK,Thread Group 1-1,bin,true,,3516,479,1,1,https://avatars.githubusercontent.com/u/41382129?s=88&u=ca9a7a6341df162d9a2e60162477b6e083fc9ec4&v=4,28,0,0
+1640834465413,28,-140,200,OK,Thread Group 1-1,bin,true,,2407,435,1,1,https://avatars.githubusercontent.com/u/8979679?s=88&v=4,28,0,0
+1640834465443,27,-141,200,OK,Thread Group 1-1,bin,true,,2413,436,1,1,https://avatars.githubusercontent.com/u/29771049?s=88&v=4,26,0,0
+1640834465471,34,-138,200,OK,Thread Group 1-1,bin,true,,4449,434,1,1,https://avatars.githubusercontent.com/u/880906?s=88&v=4,34,0,0
+1640834465507,28,-144,200,OK,Thread Group 1-1,text,true,,1632,436,1,1,https://github.githubassets.com/favicons/favicon-dark.svg,28,0,0
+1640834465536,195,-145,200,OK,Thread Group 1-1,text,true,,1046,28951,1,1,https://api.github.com/_private/browser/stats,195,0,0
+1640834465732,122,-146,204,No Content,Thread Group 1-1,,true,,615,1335,1,1,https://collector.githubapp.com/github/collect,0,0,0
+1640834465855,182,-147,200,OK,Thread Group 1-1,text,true,,3139,950,1,1,https://github.com/users/xueenda/hovercard?subject=repository%3A147656990&current_path=%2Fmyliang%2Fx-spreadsheet%2Fstargazers,181,0,0
+1640834466038,37,-148,200,OK,Thread Group 1-1,bin,true,,3700,436,1,1,https://avatars.githubusercontent.com/u/1379272?s=120&v=4,37,0,0
+1640834463894,2135,,200,"Number of samples in transaction : 38, number of failing samples : 0",Thread Group 1-1,,true,,153486,48479,1,1,null,2003,46,0
+1640834466076,185,-149,200,OK,Thread Group 1-1,text,true,,620,1212,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/c8ab68c4-d70d-4256-b617-132cf5e30df2,185,0,0
+1640834466076,185,,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,620,1212,1,1,null,185,1,0
+1640834466262,0,Modificacion Texto load,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Malformed IPv6 address at index 8: http://[localhost:]:8080/,Thread Group 1-1,text,false,,1289,0,1,1,http://[localhost:]:8080/,0,0,0
+1640834466264,42,-150,200,OK,Thread Group 1-1,text,true,,3367,540,1,1,https://ghbtns.com/github-btn.html?user=myliang&repo=x-spreadsheet&type=star&count=true&size=large,42,0,0
+1640834466307,135,-151,200,OK,Thread Group 1-1,text,true,,3083,450,1,1,https://api.github.com/repos/myliang/x-spreadsheet?callback=callback,134,0,0
+1640834466263,177,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,6450,990,1,1,null,176,3,0
+1640834466443,162,-153,200,OK,Thread Group 1-1,text,true,,213,337,1,1,https://contile.services.mozilla.com/v1/tiles,162,0,0
+1640834466606,5763,-152,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,576
+1640834466443,5925,,,"Number of samples in transaction : 2, number of failing samples : 1",Thread Group 1-1,,false,,2295,337,1,1,null,162,1,576
+1640834472370,5739,-154,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,556
+1640834472369,5739,,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2082,0,1,1,null,0,2,556
+1640834478111,5748,-155,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,Thread Group 1-1,text,false,,2082,0,1,1,https://push.services.mozilla.com/,0,0,566
+1640834478110,5748,,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,2082,0,1,1,null,0,2,566
