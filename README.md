@@ -109,3 +109,10 @@ Ejemplos:
 <p align="center">
     <img src="readme_img/Prueba_de_Seguridad.png">
 </p>
+
+## Reporte de las Alertas obtenidas
+
+<p align="center">
+    <img src="readme_img/Alertas.png">
+</p>
+
