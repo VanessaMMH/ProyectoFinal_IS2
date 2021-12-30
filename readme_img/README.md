@@ -110,9 +110,11 @@ Ejemplos:
 Para las pruebas unitarias xUnit usaremos **Mocha**  y  **Chai**. 
 
 ## Instalación
-Instalamos Mocha, Chai y plugins para la conexión HTTP
-`npm install --save-dev mocha chai chai-http`
+Instalamos Mocha, Chai y plugins para la conexión HTTP.
 
+```
+npm install --save-dev mocha chai chai-http
+```
 ## Configuración
 En el archivo **package.json** añadimos el *script* correspondiente para poder ejecutar la pruebas unitarias .
 ```
@@ -120,6 +122,53 @@ En el archivo **package.json** añadimos el *script* correspondiente para poder 
 	"test": "nyc ./node_modules/mocha/bin/mocha --require @babel/register --recursive test"
 }
 ```
+Creamos una carpeta llamada test para alojar los archivos que contendran las pruebas, trabajaremos sobre los archivos:
+- formula_test.js
+- format_test.js
+- alphabet_test.js
+
+
+## Formulas (formula_test.js)
+Se realizaron pruebas unitarias xUnit para evaluar el funcionamientos de las formulas contenidas en el proyecto como:
+- SUM
+- AVERAGE
+- MAX
+- MIN
+- IF
+- AND
+- OR
+- CONCAT
+ <p align="center">
+    <img src="/readme_img/formula_test.png">
+</p>
+
+## Formato (formato_test.js)
+Se realizaron pruebas unitarias xUnit para evaluar el funcionamientos de las funciones contenidas en el proyecto como:
+- Percent
+- Number
+- USD
+- EUR
+- RMB
+- Normal
+- Text
+ <p align="center">
+    <img src="/readme_img/formato_test.png">
+</p>
+
+## Formato (alphabet_test.js)
+Se realizaron pruebas unitarias xUnit para evaluar el funcionamientos de las funciones contenidas en el proyecto como:
+- Index_At
+- String_At
+
+> Index_At
+<p align="center">
+    <img src="/readme_img/Alfabeto_test.png">
+</p>
+> String_At
+<p align="center">
+    <img src="/readme_img/Alfabeto_test2.png">
+</p>
+
 ## Casos de Prueba
 <p align="center">
     <img src="/readme_img/cases.png">
