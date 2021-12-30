@@ -26,6 +26,7 @@ La complejidad cognitiva es una medida de qué tan difícil es comprender el flu
 <p align="center">
     <img src="/readme_img/smell2_2.png" width="50%">
 </p>
+<img width="864" alt="sonnar-scanner-report" src="https://user-images.githubusercontent.com/52789278/147779687-d881caed-f26f-48b5-9bfc-1473504f1f75.png">
 
 
 ## Refactoring code smells
@@ -88,19 +89,12 @@ Ejemplos:
 * [Jenkins NodeJS plugin v14.8](https://plugins.jenkins.io/git-parameter/)
 * [Jenkins BlueOcean](https://plugins.jenkins.io/blueocean/)
 * [Git Parameter](https://plugins.jenkins.io/git-parameter/)
-* [SonarQube Scanner](https://plugins.jenkins.io/sonar/)
 
-:heavy_check_mark: SonarQube
-
-:heavy_check_mark: SonarScanner
 
 ### Pipeline Blue Ocean wiew
 
 <img src="report-screenshots/pipeline-graph-report.png" width="50%">
 
-### Reporte Sonar Scanner
-
-<img src="report-screenshots/sonnar-scanner-report.png" width="50%">
 
 # Construccion Automatica
 Para la construcción automática nos apoyaremos en **Webpack**.
@@ -167,6 +161,17 @@ npm run build
  <p align="center">
     <img src="/readme_img/build.jpeg">
 </p>
+
+# Reporte Sonar Scanner
+
+#### Requisitos
+:heavy_check_mark: Jenkins Plugins
+* [SonarQube Scanner](https://plugins.jenkins.io/sonar/)
+
+:heavy_check_mark: SonarQube
+
+<img src="report-screenshots/sonnar-scanner-report.png" width="75%">
+
 
 # Pruebas Unitarias
 
