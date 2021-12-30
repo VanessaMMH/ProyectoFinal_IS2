@@ -10,19 +10,18 @@ pipeline {
     }
     
     stages {
-        stage('SCM'){
+        stage('SCM: GitHub'){
             steps {
                 git branch: "${params.BRANCH}", url: 'https://github.com/VanessaMMH/ProyectoFinal_IS2.git'
             }
         }
-        stage('Build') {
+        stage('Build: Construccion Automatica') {
             steps {
                 bat 'npm install --openssl-legacy-provider'
                // bat 'npm run dev'
             }
         }
-        
-        stage('SonarQube analysis') {
+        stage('Analisis Estatico: SonarQube Analysis'){
             steps {
                 withSonarQubeEnv("sonarqube-server") {
                     bat '''
@@ -36,20 +35,31 @@ pipeline {
             }
         }
         
-        stage('Mocha Test') {
+        stage('Pruebas unitarias: Mocha Test') {
             steps {
                 bat 'npm install -g mocha'
-               // bat 'npm run dev'
                 bat 'npm test'
            }
         }
     
-        stage('Performance: Taurus Tool') {
+        stage('Pruebas de Performance: Jmeter and Taurus Tool') {
             steps {
                 //bat 'pip install bzt'
                 bat 'bzt ./jmeter/test_is_final.jmx -report -o settings.artifacts-dir=jmeter'
             }
         }
         
+        stage ('Pruebas de Seguridad: OWASP Dependency-Check Vulnerabilities') {
+            steps {
+                dependencyCheck additionalArguments: ''' 
+                    -o "./" 
+                    -s "./"
+                    -f "ALL" 
+                    --disableYarnAudit
+                    --prettyPrint''', odcInstallation: 'Vulnerability6'
+
+                dependencyCheckPublisher pattern: 'dependency-check-report.xml'
+            }
+        }   
     }
 }
