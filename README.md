@@ -10,7 +10,7 @@
 - Huertas Canaza Jim Leonardo
 
  <p align="center">
-    <img src="/readme_img/xsheet.png">
+    <img src="/readme_img/xsheet.png" width="90%">
 </p>
 
 ## Code Smells
@@ -168,7 +168,7 @@ npm run build
 
 ```
  <p align="center">
-    <img src="/readme_img/build.jpeg">
+    <img src="/readme_img/build.jpeg" width="80%">
 </p>
 
 # Reporte Sonar Scanner
@@ -265,25 +265,25 @@ Se realizaron pruebas unitarias xUnit para evaluar el funcionamientos de las fun
 
 - Atacamos el proyecto utilizando Owasp Zap
 <p align="center">
-    <img src="readme_img/Prueba_de_Seguridad.png">
+    <img src="readme_img/Prueba_de_Seguridad.png" width="75%">
 </p>
 
 ## Riesgo de la Pagina
 
 <p align="center">
-    <img src="readme_img/Riesgo_de_la_Pagina.png">
+    <img src="readme_img/Riesgo_de_la_Pagina.png" width="50%">
 </p>
 
 ## Reporte de las Alertas Obtenidas
 
 <p align="center">
-    <img src="readme_img/Alertas.png">
+    <img src="readme_img/Alertas.png" width="50%">
 </p>
 
 ## Tipo de Riesgos de las Alertas
 
 <p align="center">
-    <img src="readme_img/Tipos_de_Riesgo.png">
+    <img src="readme_img/Tipos_de_Riesgo.png" width="50%">
 </p>
 
 ## Analizamos las Alertas
