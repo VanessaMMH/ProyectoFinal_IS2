@@ -91,6 +91,12 @@ Ejemplos:
 * [Git Parameter](https://plugins.jenkins.io/git-parameter/)
 
 
+
+### Pipeline
+
+<img src="report-screenshots/pipeline-graph-report.png" width="50%">
+
+
 ### Pipeline Blue Ocean wiew
 
 <img src="report-screenshots/pipeline-graph-report.png" width="50%">
