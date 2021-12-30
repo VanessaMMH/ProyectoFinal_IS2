@@ -3,7 +3,7 @@
 # Proyecto Final Ingenieria de Software II
 ## Integrantes:
 
-- Aquise Santos Angela
+- Aquise Santos Angela 23
 - Macedo Huaman Vanessa Mayra
 - Tito Jorge
 - Villanueva Guerrero Luisa
