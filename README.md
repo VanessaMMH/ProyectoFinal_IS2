@@ -344,11 +344,11 @@ Se corre el programa teniendo como resultados
 
 -Test Results:
 <p align="center">
-    <img src="readme_img/jmeter_results_1.jpeg" width="50%" >
+    <img src="readme_img/jmeter_results_1.png" width="50%" >
 </p>
 
 <p align="center">
-    <img src="readme_img/jmeter_results_2.jpeg" width="50%">
+    <img src="readme_img/jmeter_results_2.png" width="50%">
 </p>
 
 
