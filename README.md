@@ -15,16 +15,16 @@
 Si tiene un iterable, como una matriz, conjunto o lista, su mejor opción para recorrer sus valores es la sintaxis for que itere entre esas variables. Usando un contador obtendrá mismo comportamiento, pero el código no será tan limpio o claro.
 
 <p align="center">
-    <img src="/readme_img/smell1.png">
+    <img src="/readme_img/smell1.png" width="50%">
 </p>
 
 ## Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
 La complejidad cognitiva es una medida de qué tan difícil es comprender el flujo de control de una función. Las funciones con alta complejidad cognitiva serán difíciles de mantener.
 <p align="center">
-    <img src="/readme_img/smell2.png">
+    <img src="/readme_img/smell2.png" width="50%">
 </p>
 <p align="center">
-    <img src="/readme_img/smell2_2.png">
+    <img src="/readme_img/smell2_2.png" width="50%">
 </p>
 
 
@@ -32,18 +32,18 @@ La complejidad cognitiva es una medida de qué tan difícil es comprender el flu
 ## Expected a `for-of` loop instead of a `for` loop with this simple iteration.
 
 <p align="center">
-    <img src="/readme_img/factorin1.png">
+    <img src="/readme_img/factorin1.png" width="50%">
 </p>
 
 
 ### COMPOSING METHODS:  5. Introduce Explaining Variable
 before
 <p align="center">
-    <img src="/imageRefactorization/event_before.png">
+    <img src="/imageRefactorization/event_before.png"width="50%">
 </p>
 after
 <p align="center">
-    <img src="/imageRefactorization/event_After.png">
+    <img src="/imageRefactorization/event_After.png" width="50%">
 </p>
 
 ### FUNCTIONS SHOULD NOT BE EMPTY
