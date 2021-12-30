@@ -93,14 +93,16 @@ Ejemplos:
 
 
 ### Pipeline
+<p align="center">
+    <img src="report-screenshots/pipeline-report.png" width="75%">
+</p>
 
-<img src="report-screenshots/pipeline-graph-report.png" width="50%">
 
 
 ### Pipeline Blue Ocean wiew
-
-<img src="report-screenshots/pipeline-graph-report.png" width="50%">
-
+<p align="center">
+    <img src="report-screenshots/pipeline-graph-report.png" width="75%">
+</p>
 
 # Construccion Automatica
 Para la construcción automática nos apoyaremos en **Webpack**.
