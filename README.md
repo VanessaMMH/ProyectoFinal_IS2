@@ -256,6 +256,11 @@ Se realizaron pruebas unitarias xUnit para evaluar el funcionamientos de las fun
 
 # Prueba de Seguridad - Owasp Zap
 
+#### Requisitos
+:heavy_check_mark: Jenkins Plugins
+* [Dependency Check](https://plugins.jenkins.io/dependency-check-jenkins-plugin/)
+
+
 - Atacamos el proyecto utilizando Owasp Zap
 <p align="center">
     <img src="readme_img/Prueba_de_Seguridad.png">
@@ -321,6 +326,11 @@ frame-ancestors, form-action
 
 
 # Pruebas de rendimiento JMeter
+
+#### Requisitos
+:heavy_check_mark: Jenkins Plugins
+* [Performance](https://plugins.jenkins.io/performance/)
+
 
 ## Planificación de Casos de Prueba:
 Se planea probar funcionalidades del proyecto corriendo en localhost:8080 para poder ver la reaccion de su rendimiento:
