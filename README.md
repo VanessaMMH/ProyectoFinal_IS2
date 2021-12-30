@@ -125,7 +125,7 @@ Ejemplos:
 ## Tipo de Riesgos de las Alertas
 
 <p align="center">
-    <img src="readme_img/Tipo_de_Riesgo.png">
+    <img src="readme_img/Tipos_de_Riesgo.png">
 </p>
 
 ## Analizamos las Alertas
