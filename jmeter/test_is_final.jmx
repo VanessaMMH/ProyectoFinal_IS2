@@ -3510,9 +3510,7 @@
                 <collectionProp name="Arguments.arguments">
                   <elementProp name="" elementType="HTTPArgument">
                     <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                    <stringProp name="Argument.value">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;�m��n�0&#x10;D���l�&#x10;��O��Z�&amp;Y�1�6�����5MB��&#x3;���7��UL�&#xf;��~&#x14;�UD�&#x10;�v#b��L�&#x13;�Nh�U�t��7�:)&#xb;���&#x8;��&#x7f;��=4&#x1;!��&#x15;�aHtF�&#x11;�#�����	S��h�M?���P�R��&#x11;0Mf8���x&#x1c;X&#xc;&#x11;o�8��ժJ�zY&#xd;
-Ñ&#x12;&#xe;i&#xe;9&#x1f;�s]�1��&#x15;�&apos;�&#x1b;�R�&#x1c;\�&#x19;C�%k[��^�OS�J�$��ٸ���%�&#xd;
-l`(*�����.���&#x5;&#x15;��U&#x6;�)�d�썅�\�Է����&#x1;&#xd;1W�U?�^Ł_ؗgp�S�R���8�_�7ծ&lt;&#x7;=�e�0�&gt;aXY&#x18;�&#x18;J�&#xb;���NOF=���ci���N1�O���D&#x13;��D)�̀�j���&#x1b;ѣ8�]&#x2;&#x0;&#x0;</stringProp>
+                    <stringProp name="Argument.value">Prueba</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
                   </elementProp>
                 </collectionProp>
