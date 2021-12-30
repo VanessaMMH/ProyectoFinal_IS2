@@ -103,6 +103,70 @@ Ejemplos:
 <img src="report-screenshots/sonnar-scanner-report.png" width="50%">
 
 # Construccion Automatica
+Para la construcción automática nos apoyaremos en **Webpack**.
+
+## Instalación
+Seguiremos los siguientes pasos para la instalacion de Webpack y las dependencias necesarias para el proyecto.
+```
+mkdir x-spreadsheet && cd x-spreadsheet
+npm init -y
+npm install webpack webpack-cli --save-dev
+
+mkdir dist src
+touch webpack.config.js
+
+
+npm install --save-dev file-loader css-loader file-loader
+npm install --save-dev html-webpack-plugin
+npm install --save-dev clean-webpack-plugin
+npm install --save-dev webpack-dev-server
+npm install --save-dev webpack-merge
+
+# less
+npm install less --save-dev
+npm install less-loader --save-dev
+
+npm install eslint --save-dev
+./node_modules/.bin/eslint --init # airbnb
+
+
+# test mocha
+npm install --save-dev mocha
+
+# babel
+npm install --save-dev babel-loader babel-core babel-preset-env
+# for macha
+npm install --save-dev babel-register
+# npm install --save-dev babel-plugin-transform-runtime
+# npm install --save babel-runtime
+```
+## Configuración
+En el archivo **package.json** añadimos el *script* correspondiente para poder ejecutar la construccion automatica .
+- dev (Para el modo de desarrollo)
+- build (Para el modo de produccion)
+
+```
+"scripts": {
+	"dev": "webpack-dev-server --open --config build/webpack.dev.js",
+    "build": "webpack --config build/webpack.prod.js",
+}
+```
+## Ejecución
+Para la construcción automática  del modo de desarrollo usamos el comando :
+
+```
+npm run dev
+
+```
+Para la construcción automática  del modo de produccion usamos el comando :
+
+```
+npm run build
+
+```
+ <p align="center">
+    <img src="/readme_img/build.jpeg">
+</p>
 
 # Pruebas Unitarias
 
@@ -161,10 +225,13 @@ Se realizaron pruebas unitarias xUnit para evaluar el funcionamientos de las fun
 - String_At
 
 > Index_At
+
 <p align="center">
     <img src="/readme_img/Alfabeto_test.png">
 </p>
+
 > String_At
+
 <p align="center">
     <img src="/readme_img/Alfabeto_test2.png">
 </p>
