@@ -9,6 +9,9 @@
 - Villanueva Guerrero Luisa
 - Huertas Canaza Jim Leonardo
 
+ <p align="center">
+    <img src="/readme_img/xsheet.png">
+</p>
 
 ## Code Smells
 ## Expected a `for-of` loop instead of a `for` loop with this simple iteration.
@@ -142,8 +145,8 @@ npm install --save-dev babel-register
 ```
 ## Configuración
 En el archivo **package.json** añadimos el *script* correspondiente para poder ejecutar la construccion automatica .
-- dev (Para el modo de desarrollo)
-- build (Para el modo de produccion)
+- **dev:** Para el modo de desarrollo
+- **build:** Para el modo de produccion
 
 ```
 "scripts": {
