@@ -26,8 +26,6 @@ La complejidad cognitiva es una medida de qué tan difícil es comprender el flu
 <p align="center">
     <img src="/readme_img/smell2_2.png" width="50%">
 </p>
-<img width="864" alt="sonnar-scanner-report" src="https://user-images.githubusercontent.com/52789278/147779687-d881caed-f26f-48b5-9bfc-1473504f1f75.png">
-
 
 ## Refactoring code smells
 ### Expected a `for-of` loop instead of a `for` loop with this simple iteration.
@@ -178,8 +176,9 @@ npm run build
 
 :heavy_check_mark: SonarQube
 
+<p align="center">
 <img src="report-screenshots/sonnar-scanner-report.png" width="75%">
-
+</p>
 
 # Pruebas Unitarias
 
@@ -349,7 +348,7 @@ En donde se evaluará su rendimiento.
 
 ## Creacion de Tests - JMeter
 <p align="center">
-    <img src="readme_img/jmeter_tests.png" width="50%">
+    <img src="readme_img/jmeter_tests.png" width="25%">
 </p>
 
 ## Resultados de los test - JMeter
@@ -357,21 +356,21 @@ Se corre el programa teniendo como resultados
 
 - Tiempo de demora de la ejecucion del test:
 <p align="center">
-    <img src="readme_img/jmeter_tests_2.png" >
+    <img src="readme_img/jmeter_tests_2.png" width="80%">
 </p>
 
 - BlazeMeter:
 <p align="center">
-    <img src="readme_img/jmeter_tests_2.png" width="50%">
+    <img src="readme_img/jmeter_tests_2.png" width="80%">
 </p>
 
 -Test Results:
 <p align="center">
-    <img src="readme_img/jmeter_results_1.png" width="50%" >
+    <img src="readme_img/jmeter_results_1.png" width="75%" >
 </p>
 
 <p align="center">
-    <img src="readme_img/jmeter_results_2.png" width="50%">
+    <img src="readme_img/jmeter_results_2.png" width="75%">
 </p>
 
 
