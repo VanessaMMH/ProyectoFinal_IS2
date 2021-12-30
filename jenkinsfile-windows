@@ -21,6 +21,7 @@ pipeline {
                // bat 'npm run dev'
             }
         }
+        
         stage('SonarQube analysis') {
             steps {
                 withSonarQubeEnv("sonarqube-server") {
@@ -32,6 +33,21 @@ pipeline {
                     '''
                 }
               
+            }
+        }
+        
+        stage('Mocha Test') {
+            steps {
+                bat 'npm install -g mocha'
+               // bat 'npm run dev'
+                bat 'npm test'
+           }
+        }
+    
+        stage('Performance: Taurus Tool') {
+            steps {
+                //bat 'pip install bzt'
+                bat 'bzt ./jmeter/test_is_final.jmx -report -o settings.artifacts-dir=jmeter'
             }
         }
         
