@@ -3,7 +3,7 @@
 # Proyecto Final Ingenieria de Software II
 ## Integrantes:
 
-- Aquise Santos Angela 23
+- Aquise Santos Angela 
 - Macedo Huaman Vanessa Mayra
 - Tito Jorge
 - Villanueva Guerrero Luisa
@@ -101,4 +101,11 @@ Ejemplos:
 - After method
 <p align="center">
     <img src="/readme_img/settitle_S.png">
+</p>
+
+# Prueba de Seguridad - Owasp Zap
+
+- Atacamos el proyecto utilizando Owasp Zap
+<p align="center">
+    <img src="readme_img/Prueba_de_Seguridad.png">
 </p>
