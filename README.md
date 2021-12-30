@@ -307,7 +307,49 @@ frame-ancestors, form-action
 
 
 
+# Pruebas de rendimiento JMeter
 
+## Planificación de Casos de Prueba:
+Se planea probar funcionalidades del proyecto corriendo en localhost:8080 para poder ver la reaccion de su rendimiento:
+- Modificadores y Borradores de texto
+- Eliminar, agregar y editar Filas
+- Eliminar, agregar y editar Columnas
+- Modificares de Celdas (color, tamaño, combinacion, etc).
+En donde se evaluará su rendimiento.
+
+| #TC | Escenario de prueba | Usuarios | Rampas  |  Agentes  |
+| :---: |     :---:        |   :---:   |  :---:  |  :---:    |
+|  TC_1 |  Modificar texto  |     5    |  5s     |     2     |
+|  TC_2 |  Modificar Filas  |     5    |  5s     |     2     |
+|  TC_3 |  Modificar Columnas |   5    |  5s     |     2     |
+|  TC_4 |  Modificar Celdas  |   5     |  5s     |     2     |
+
+## Creacion de Tests - JMeter
+<p align="center">
+    <img src="readme_img/jmeter_tests.png" width="50%">
+</p>
+
+## Resultados de los test - JMeter
+Se corre el programa teniendo como resultados
+
+- Tiempo de demora de la ejecucion del test:
+<p align="center">
+    <img src="readme_img/jmeter_tests_2.png" >
+</p>
+
+- BlazeMeter:
+<p align="center">
+    <img src="readme_img/jmeter_tests_2.png" width="50%">
+</p>
+
+-Test Results:
+<p align="center">
+    <img src="readme_img/jmeter_results_1.png" width="50%" >
+</p>
+
+<p align="center">
+    <img src="readme_img/jmeter_results_2.png" width="50%">
+</p>
 
 
 
