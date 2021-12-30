@@ -116,3 +116,15 @@ Ejemplos:
     <img src="readme_img/Alertas.png">
 </p>
 
+## Analizamos las Alertas
+### CSP: Wildcard Directive
+- The following directives either allow wildcard sources (or ancestors), are not defined, or are overly broadly defined:
+
+frame-ancestors, form-action
+
+- The directive(s): frame-ancestors, form-action are among the directives that do not fallback to default-src, missing/excluding them is the same as allowing anything.
+
+
+
+
+
